@@ -248,5 +248,3 @@ research, also cite the relevant MinerU publications and the original papers you
 analyzed. Consult the upstream [MinerU citation information](https://github.com/opendatalab/MinerU#citation).
 
 Maintainer: [Mojtaba Sadafi](https://mojsadafi.ir/) · [GitHub](https://github.com/mojjss)
-#   m i n e r u - p d f - t o - m a r k d o w n  
- 
