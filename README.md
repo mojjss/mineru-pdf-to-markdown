@@ -15,7 +15,7 @@ product. See [Third-party notices](NOTICE.md) for attribution and licensing.
 | Task | How the app helps |
 | --- | --- |
 | Convert research papers | Sends PDFs to the MinerU cloud API or a local MinerU installation and saves Markdown, JSON and image assets. |
-| Process scanned pages and formulas | Uses MinerU's document-parsing capabilities, including mathematical and scanned content. The current GUI has no control to force OCR; see [Scans and equations](#scans-and-equations). |
+| Process scanned pages and formulas | Uses MinerU's document-parsing capabilities, including mathematical and scanned content. The current GUI has no control to force OCR; see [Scans and equations](#6-scans-and-equations). |
 | Work through a batch | Adds individual PDFs or recursively finds PDFs in folders. Each PDF or group can have a different output folder. Files are processed sequentially. |
 | Continue interrupted work | Keeps per-document job records and hashes. Completed matching outputs can be skipped on resume. |
 | Work with limited connectivity | Auto mode can switch to installed local models after connection failures or specified cloud limits. |
