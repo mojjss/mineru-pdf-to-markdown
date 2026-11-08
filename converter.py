@@ -1,4 +1,4 @@
-"""Small desktop PDF converter using MinerU cloud and local MinerU 4.1."""
+"""Desktop PDF converter using MinerU cloud and local MinerU 4.1."""
 
 from __future__ import annotations
 
