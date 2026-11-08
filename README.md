@@ -6,7 +6,7 @@ It supports one paper or a batch, user-selected output folders, the MinerU
 Precision API, and a separately installed local parser. The interface is designed
 for Windows and uses Python and Tkinter.
 
-This is an independent community wrapper by Mojtaba Sadafi. MinerU provides the
+This is an independent community wrapper by [Mojtaba Sadafi](https://mojsadafi.ir). MinerU provides the
 underlying document-parsing technology. The wrapper is not an official MinerU
 product. See [Third-party notices](NOTICE.md) for attribution and licensing.
 
