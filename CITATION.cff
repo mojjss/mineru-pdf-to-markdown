@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "MinerU PDF to Markdown Converter"
+message: "If you use this software, please cite it and the appropriate MinerU work."
+type: software
+authors:
+  - family-names: Sadafi
+    given-names: Mojtaba
+license: MIT

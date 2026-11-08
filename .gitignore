@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+output/
+*.log
+tokens.dpapi
+tokens.tmp
+cloud_job*.json
+.converter.lock
