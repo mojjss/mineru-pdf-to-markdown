@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 For a vulnerability in this wrapper, contact the maintainer privately using
-the contact form at [mojsadafi.ir](https://mojsadafi.ir/). If private
+the contact methods available [mojsadafi.ir](https://mojsadafi.ir/). If private
 vulnerability reporting is enabled for the future GitHub repository, that is
 also an appropriate channel. Include the affected version or commit, a minimal
 reproduction with non-sensitive files, and the likely impact. Allow time for the
